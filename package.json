@@ -1,0 +1,20 @@
+{
+  "name": "learningnpmandgulp",
+  "version": "1.0.0",
+  "description": "first practice with npm and new javascript techniques",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "package",
+    "management"
+  ],
+  "author": "EW",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
